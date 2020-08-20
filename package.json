@@ -33,7 +33,7 @@
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "firebase": "^7.2.1",
     "phaser": "^3.16.2"
   }
